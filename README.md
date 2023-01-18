@@ -9,8 +9,8 @@ flutter pub get
 flutter run
 ```
 
-## Screenshots
+## SCREENSHOTS
 
-### RANDOM NAME CHOOSER
+### Random name chooser
 ![Screenshot (496)](https://user-images.githubusercontent.com/91388754/213280024-73b6ee14-0378-4a99-8a45-8572d55061a1.png)
 
