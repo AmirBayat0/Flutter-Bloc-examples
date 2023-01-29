@@ -16,6 +16,7 @@ flutter run
 
 ### Fetch Data From Server with Cubit
 ![Screenshot (513)](https://user-images.githubusercontent.com/91388754/215330503-265d7a72-d181-4efd-a751-612e521e0241.png)
-![Screenshot (514)](https://user-images.githubusercontent.com/91388754/215330508-a5f375d7-1bc8-4318-a9b6-07f99b2d0977.png)
+![Screenshot (514)](https://user-images.githubusercontent.com/91388754/215330629-59d38d38-3f6a-442b-9e5c-08195805d447.png)
+
 
 
